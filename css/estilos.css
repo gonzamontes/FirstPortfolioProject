@@ -319,6 +319,7 @@ border-radius: 0.8rem;
 
 .servicios1 p{
     line-height: 2.4rem;
+    margin-top: 2rem;
 }
 
 .servicios1 .iconos{
@@ -1008,4 +1009,9 @@ select option{
 .boton-navbar{
     border: none;
     margin-right: 5rem;
+}
+
+.badge{
+    font-size: 1.5rem;
+    font-weight: lighter;
 }
